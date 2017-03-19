@@ -1,5 +1,7 @@
 # {{ name }}
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/probot/plugin-template.svg)](https://greenkeeper.io/)
+
 > a GitHub Integration built with [probot](https://github.com/probot/probot) that {{ description }}
 
 ## Setup
